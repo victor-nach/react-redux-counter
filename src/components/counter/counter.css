@@ -1,0 +1,21 @@
+.counter {
+    border: 2px solid rgb(37, 27, 27);
+    padding: 10px;
+    height: 150px;
+    width: 150px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.counter div {
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+}
+
+button {
+    cursor: pointer;
+    width: 40px;
+    font-size: 26px;
+}
