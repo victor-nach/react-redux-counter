@@ -1,7 +1,6 @@
 .counter {
     border: 2px solid rgb(37, 27, 27);
     padding: 10px;
-    height: 150px;
     width: 150px;
     display: flex;
     flex-direction: column;
@@ -12,10 +11,11 @@
     width: 100%;
     display: flex;
     justify-content: space-around;
+    margin-bottom: 20px;
 }
 
 button {
     cursor: pointer;
-    width: 40px;
+    padding: 10px;
     font-size: 26px;
 }
