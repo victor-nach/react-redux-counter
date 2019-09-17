@@ -1,0 +1,6 @@
+## setup react
+npx create-react-app <app-name>
+
+## Install react and react-redux
+npm install --save react react-redux
+
